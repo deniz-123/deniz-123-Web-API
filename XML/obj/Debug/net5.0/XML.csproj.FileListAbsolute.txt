@@ -1,0 +1,17 @@
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML/bin/Debug/net5.0/XML.deps.json
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML/bin/Debug/net5.0/XML.runtimeconfig.json
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML/bin/Debug/net5.0/XML.runtimeconfig.dev.json
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML/bin/Debug/net5.0/XML.dll
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML/bin/Debug/net5.0/ref/XML.dll
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML/bin/Debug/net5.0/XML.pdb
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML/bin/Debug/net5.0/Entidades.dll
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML/obj/Debug/net5.0/XML.csproj.AssemblyReference.cache
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML/obj/Debug/net5.0/XML.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML/obj/Debug/net5.0/XML.AssemblyInfoInputs.cache
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML/obj/Debug/net5.0/XML.AssemblyInfo.cs
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML/obj/Debug/net5.0/XML.csproj.CoreCompileInputs.cache
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML/obj/Debug/net5.0/XML.csproj.CopyComplete
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML/obj/Debug/net5.0/XML.dll
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML/obj/Debug/net5.0/ref/XML.dll
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML/obj/Debug/net5.0/XML.pdb
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML/obj/Debug/net5.0/XML.genruntimeconfig.cache

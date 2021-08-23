@@ -1,0 +1,12 @@
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.ENTITIES/bin/Debug/net5.0/XML.ENTITIES.deps.json
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.ENTITIES/bin/Debug/net5.0/XML.ENTITIES.dll
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.ENTITIES/bin/Debug/net5.0/ref/XML.ENTITIES.dll
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.ENTITIES/bin/Debug/net5.0/XML.ENTITIES.pdb
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.ENTITIES/obj/Debug/net5.0/XML.ENTITIES.csproj.AssemblyReference.cache
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.ENTITIES/obj/Debug/net5.0/XML.ENTITIES.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.ENTITIES/obj/Debug/net5.0/XML.ENTITIES.AssemblyInfoInputs.cache
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.ENTITIES/obj/Debug/net5.0/XML.ENTITIES.AssemblyInfo.cs
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.ENTITIES/obj/Debug/net5.0/XML.ENTITIES.csproj.CoreCompileInputs.cache
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.ENTITIES/obj/Debug/net5.0/XML.ENTITIES.dll
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.ENTITIES/obj/Debug/net5.0/ref/XML.ENTITIES.dll
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.ENTITIES/obj/Debug/net5.0/XML.ENTITIES.pdb

@@ -1,0 +1,189 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.BUSINESS/XML.BUSINESS.csproj": {}
+  },
+  "projects": {
+    "/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.BUSINESS/XML.BUSINESS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.BUSINESS/XML.BUSINESS.csproj",
+        "projectName": "XML.BUSINESS",
+        "projectPath": "/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.BUSINESS/XML.BUSINESS.csproj",
+        "packagesPath": "/Users/denizberkantdemirors/.nuget/packages/",
+        "outputPath": "/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.BUSINESS/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/denizberkantdemirors/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.DATA/XML.DATA.csproj": {
+                "projectPath": "/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.DATA/XML.DATA.csproj"
+              },
+              "/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.ENTITIES/XML.ENTITIES.csproj": {
+                "projectPath": "/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.ENTITIES/XML.ENTITIES.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.DATA/XML.DATA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.DATA/XML.DATA.csproj",
+        "projectName": "XML.DATA",
+        "projectPath": "/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.DATA/XML.DATA.csproj",
+        "packagesPath": "/Users/denizberkantdemirors/.nuget/packages/",
+        "outputPath": "/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.DATA/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/denizberkantdemirors/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.ENTITIES/XML.ENTITIES.csproj": {
+                "projectPath": "/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.ENTITIES/XML.ENTITIES.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.ENTITIES/XML.ENTITIES.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.ENTITIES/XML.ENTITIES.csproj",
+        "projectName": "XML.ENTITIES",
+        "projectPath": "/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.ENTITIES/XML.ENTITIES.csproj",
+        "packagesPath": "/Users/denizberkantdemirors/.nuget/packages/",
+        "outputPath": "/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.ENTITIES/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/denizberkantdemirors/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.BUSINESS/bin/Debug/net5.0/XML.BUSINESS.deps.json
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.BUSINESS/bin/Debug/net5.0/XML.BUSINESS.dll
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.BUSINESS/bin/Debug/net5.0/ref/XML.BUSINESS.dll
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.BUSINESS/bin/Debug/net5.0/XML.BUSINESS.pdb
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.BUSINESS/bin/Debug/net5.0/XML.DATA.dll
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.BUSINESS/bin/Debug/net5.0/XML.ENTITIES.dll
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.BUSINESS/bin/Debug/net5.0/XML.ENTITIES.pdb
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.BUSINESS/bin/Debug/net5.0/XML.DATA.pdb
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.BUSINESS/obj/Debug/net5.0/XML.BUSINESS.csproj.AssemblyReference.cache
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.BUSINESS/obj/Debug/net5.0/XML.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.BUSINESS/obj/Debug/net5.0/XML.BUSINESS.AssemblyInfoInputs.cache
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.BUSINESS/obj/Debug/net5.0/XML.BUSINESS.AssemblyInfo.cs
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.BUSINESS/obj/Debug/net5.0/XML.BUSINESS.csproj.CoreCompileInputs.cache
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.BUSINESS/obj/Debug/net5.0/XML.BUSINESS.csproj.CopyComplete
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.BUSINESS/obj/Debug/net5.0/XML.BUSINESS.dll
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.BUSINESS/obj/Debug/net5.0/ref/XML.BUSINESS.dll
+/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML.BUSINESS/obj/Debug/net5.0/XML.BUSINESS.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "orTvPoN79uovTtrAYPzdqyuIrHW25ysjYbvdpORk3+TRzZyRvOKaJnBaXAm/kJlS4UT26tSCyWkni/E6VDHdDQ==",
+  "success": true,
+  "projectFilePath": "/Users/denizberkantdemirors/Desktop/programming projects/c# projects/XML/XML/XML.csproj",
+  "expectedPackageFiles": [
+    "/Users/denizberkantdemirors/.nuget/packages/entity/1.0.0/entity.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
